@@ -1,0 +1,26 @@
+html {
+    background-color: black;
+}
+
+.memes {
+    text-align: center;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 20%;
+    color: whitesmoke;
+}
+
+img {
+    border: 10px solid whitesmoke;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
